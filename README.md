@@ -8,10 +8,10 @@
       - Excel;
  - 💬 Pergunte-me sobre qualquer coisa;
  - 📫 Entre em contato comigo por:
-<p align="left">
-<a href="https://twitter.com/del_sa_dias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="del_sa_dias" height="30" width="40" /></a>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odelam-sa-dias-de-souza/)](https://www.linkedin.com/in/odelam-sa-dias-de-souza/)
-</p>
+
+ [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/del_sa_dias.svg?style=social&label=Follow%20%40del_sa_dias)](https://twitter.com/del_sa_dias)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odelam-sa-dias-de-souza/)](https://www.linkedin.com/in/odelam-sa-dias-de-souza/)
+
 - 📄 Linguagens e Ferramentas:
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
      
