@@ -23,7 +23,7 @@
 </a> &nbsp; 
 
 <br/>
-# Olá pessoal 👋 
+<strong>Olá pessoal</strong> 👋 
 
 <br/>
 Meu nome é Odelam, sou Analista de B.I e apaixonado por ciência natural e dados! Adoro aprender, essa é a minha fonte de motivação, então me dedido muito a cada dia em aprender mais sobre Python, SQL Server, ETL, DataWarehouse e tudo que envolve um ecossistema de Business Intelligence possa oferecer, incluindo a importantíssima visão de negócio.
