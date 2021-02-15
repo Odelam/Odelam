@@ -13,7 +13,7 @@
 
 
 
-# Odelam Sá Dias de Souza (@Del_Sa_Dias)
+# Odelam Sá Dias de Souza
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Odelam)](https://github.com/Odelam)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/odelam-sa-dias-de-souza/)](https://www.linkedin.com/in/odelam-sa-dias-de-souza/)
