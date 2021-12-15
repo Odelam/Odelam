@@ -26,12 +26,11 @@
 <strong>Olá pessoal</strong> 👋 
 
 <br/>
-Meu nome é Odelam, sou Analista de B.I e apaixonado por ciência natural e dados! Adoro aprender, essa é a minha fonte de motivação, então me dedido muito a cada dia em aprender mais sobre Python, SQL Server, ETL, DataWarehouse e tudo que envolve um ecossistema de Business Intelligence, incluindo a importantíssima visão de negócio.
+Meu nome é Odelam, sou programador apaixonado por ciência natural e tecnologia! Adoro aprender, essa é a minha fonte de motivação, então me dedido muito a cada dia em aprender mais sobre Javascript, HTML, CSS, React.js, SQL, NoSQL e tudo que envolve um ecossistema da web.
 
-<br/>.📚 Analista de Business Intelligence;
-<br/>.👩‍🎓 Bacharelado em Ciência de Dados (em andamento);
-<br/>.🌱 Em constante aprendizado em SQL Server, Power BI e processos de BI;
-<br/>.💻  Tecnologias e Ferramentas: SQL-Server, Python, Excel, Power BI;
+<br/>.📚 Programador;
+<br/>.👩‍🎓 Bacharelado em Tecnologia da Informação (em andamento);
+<br/>.💻  Tecnologias e Ferramentas: Javascript, HTML/CSS, React.js;
 <br/>.🌍 Idiomas: Inglês e Espanhol;
 <br/>.💬 Me pergunte sobre: Natureza, livros e comida;
 <br/>.⚡ Curiosidade: Adoro caminhadas em reservas florestais.
